@@ -1,0 +1,74 @@
+.about {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    height: 1024px;
+    position: relative;
+    width: 100%;
+}
+
+.about__article {
+    box-sizing: border-box;
+    padding-top: 347px;
+    padding-left: 195px;
+}
+
+.about__tile {
+    color: #000;
+    font-family: Montserrat;
+    font-size: 33px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin: 0 0 10px;
+    padding: 0;
+}
+
+.about__text {
+    max-width: 540px;
+    color: #000;
+    font-family: Montserrat;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 0 0 40px;
+    padding: 0;
+}
+
+.about__button {
+    background-color: #ffffff;
+    width: 330px;
+    height: 73px;
+    border: 2px solid #000;
+    margin: 0;
+    padding: 0;
+    color: #000;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 27px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.about__logo-container {
+    max-height: 100%;
+    max-width: 480px;
+    background: #3C3B3B;
+    display: flex;
+}
+
+.about__logo {
+    align-self: center;
+    display: inline;
+    margin: 0;
+    padding: 0;
+    color: #000;
+    font-family: Cormorant SC;
+    font-size: 163.31px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    /* transform: rotate(90deg); */
+    writing-mode: vertical-rl;
+}

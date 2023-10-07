@@ -1,0 +1,28 @@
+@import '../../vendor/fonts/fonts.css';
+
+.App {
+
+    max-width: 1440px;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+    position: relative;
+}
+
+.link,
+.button {
+    transition: 0.2s ease-in-out;
+}
+
+.link:hover,
+.button:hover {
+    color: rgba(255, 245, 0, 0.50);
+    cursor: pointer;
+}

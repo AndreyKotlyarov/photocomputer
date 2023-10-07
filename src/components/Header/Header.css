@@ -1,0 +1,50 @@
+.header {
+    min-width: 100%;
+    padding: 0 193px 0 195px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    z-index: 1;
+}
+
+.header__logo {
+    color: #F8F8F8;
+    font-family: Cormorant SC;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+}
+
+.header__links-list {
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.header__link-element {
+    margin-left: 60px;
+
+}
+
+.header__link-element:first-child {
+    margin-left: 0;
+}
+
+.header__link {
+    text-decoration: none;
+    color: #F8F8F8;
+    font-family: Montserrat;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: uppercase;
+}
