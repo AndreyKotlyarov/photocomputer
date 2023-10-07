@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4383bc48.css",
+    "main.js": "/static/js/main.e24d18ea.js",
+    "static/js/787.8e0a6370.chunk.js": "/static/js/787.8e0a6370.chunk.js",
+    "static/media/map.png": "/static/media/map.18bef2cf02f76cf594e4.png",
+    "static/media/promo_bg.jpeg": "/static/media/promo_bg.bb7ae2a70cf698364dca.jpeg",
+    "static/media/4.jpeg": "/static/media/4.a0fa899ae4aaf69ff5c1.jpeg",
+    "static/media/1.jpeg": "/static/media/1.69db8c05de9ec7f2ba89.jpeg",
+    "static/media/2.jpeg": "/static/media/2.4709bb31a9aa9c7fbfc1.jpeg",
+    "static/media/6.jpeg": "/static/media/6.0c21b1fbda6b24934154.jpeg",
+    "static/media/3.jpeg": "/static/media/3.d8bd46e6b31f2b5f29a7.jpeg",
+    "static/media/5.jpeg": "/static/media/5.f661f620d253936d78c3.jpeg",
+    "static/media/VK Circled.svg": "/static/media/VK Circled.eda75ce3286e8d61d355d2700ef0dce2.svg",
+    "static/media/Dota 2.svg": "/static/media/Dota 2.811914347ce524689b0aac9ddb79e6d0.svg",
+    "static/media/Facebook.svg": "/static/media/Facebook.d9eb6df0fa53dc70b51f721ee6a9cb39.svg",
+    "index.html": "/index.html",
+    "main.4383bc48.css.map": "/static/css/main.4383bc48.css.map",
+    "main.e24d18ea.js.map": "/static/js/main.e24d18ea.js.map",
+    "787.8e0a6370.chunk.js.map": "/static/js/787.8e0a6370.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4383bc48.css",
+    "static/js/main.e24d18ea.js"
+  ]
+}
